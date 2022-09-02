@@ -1,1 +1,7 @@
-body {background-color: ;}
+body {background: color #00010D;text-align: justify: fontsize 18px; ;}
+h1{text-align: center;background-color: #261F33;color: #a62139;}
+h3{text-align: justify;color: #FFFFFF  ;}
+b {color: #364376;font-size 18px;}
+i {color:#BF9E34; font-size: 18px;}
+header,footer{background-color: #C70A0A; color: #C70A0A; text-align: center; font-size: 20px;}
+main {background-color: #260101;}
